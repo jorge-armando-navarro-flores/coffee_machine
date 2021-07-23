@@ -1,4 +1,5 @@
 # Coffee machine
+This little script simulates a coffee machine.
 
 ## Successful buy
 ![successful](screenshots/coffee-machine_successful.png)
